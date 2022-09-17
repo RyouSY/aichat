@@ -14,6 +14,7 @@ const clientConfig = {
 		},
 	},
 };
+
 const client = new NlpClient(clientConfig);
 
 export class aiChat extends plugin {
